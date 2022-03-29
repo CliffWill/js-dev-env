@@ -1,5 +1,5 @@
-//Undifined for variable 
-let name  
+//Undifined for variable
+let name
 
 name = 'Cliff'
 
